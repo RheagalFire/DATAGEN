@@ -1,6 +1,6 @@
 from typing import Type
 
-from langchain_community.chat_models import ChatLiteLLM
+from langchain_litellm import ChatLiteLLM
 
 from .base import BaseProvider
 
